@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="flex flex-wrap">
                <div className="w-full px-4 mb-12 text-slate-300 font-medium md:w-1/3">
                   <h2 className="font-bold text-4xl text-white mb-5">
-                     RestOption
+                     ResultOption
                   </h2>
                   <h2 className="font-bold text-2xl">Contact us</h2>
                   <p>loremipsum@gmail.com</p>
@@ -38,7 +38,7 @@ const Footer = () => {
                      <li>
                         <Link href="/">
                            <a className="inline-block text-base hover:text-primary mb-3">
-                              Web developer
+                              Software Engineer
                            </a>
                         </Link>
                      </li>
@@ -59,7 +59,7 @@ const Footer = () => {
                      <li>
                         <Link href="#portfolio">
                            <a className="inline-block text-base hover:text-primary mb-3">
-                              Portfolio
+                              Projects
                            </a>
                         </Link>
                      </li>

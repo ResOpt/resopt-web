@@ -10,10 +10,10 @@ const Hero = () => {
                <nav className=" md:w-full sm:w-2/3 flex items-center justify-between">
                   <div className="flex items-center gap-x-2">
                      <a href="#" className="text-white font-semibold  mr-8">
-                        RestOption
+                        ResultOption
                      </a>
                      <Navlink href="#about">About us</Navlink>
-                     <Navlink href="#portfolio">Portfolio</Navlink>
+                     <Navlink href="#portfolio">Projects</Navlink>
                      <Navlink href="#contact">Contact</Navlink>
                   </div>
                   <div className="flex items-center gap-x-2">
@@ -37,19 +37,21 @@ const Hero = () => {
             <div className=" w-full md:w-2/3 lg:px-0 sm:px-10  ">
                <header className="text-white py-4 md:py-16 sm:py-8">
                   <h1 className="text-xl md:text-3xl font-bold">
-                     New Revolution
+                     Let us build your app. Innovate & build modern apps using
+                     latest technology
                   </h1>
                   <p className="text-base md:text-xl leading-relaxed font-light mt-4 mb-6">
-                     Lorem ipsum dolor sit amet consectetur adipisicing elit.{' '}
                      <a
                         href="#"
                         className="underline decoration-sky-500 text-sky-400 font-medium"
                      >
                         Dolorem quam
                      </a>
-                     , recusandae quis dolorum veritatis nulla, nemo
-                     consequuntur temporibus quisquam expedita libero est facere
-                     ipsum laboriosam eveniet itaque. Rem, dicta temporibus?
+                     , Research Existing Solutions. The app development process
+                     must start with clearly defined goals. , recusandae quis
+                     dolorum veritatis nulla, nemo consequuntur temporibus
+                     quisquam expedita libero est facere ipsum laboriosam
+                     eveniet itaque. Rem, dicta temporibus?
                   </p>
                </header>
             </div>

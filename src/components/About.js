@@ -10,7 +10,7 @@ const About = () => {
                      About Us
                   </h4>
                   <h2 className="font-bold text-dark text-3xl mb-5 max-w-md lg:text-4xl">
-                     Build Your Website
+                     Build Your App
                   </h2>
                   <p className="font-medium text-base text-dark max-w-xl lg:text-lg">
                      The standard chunk of Lorem Ipsum used since the 1500s is

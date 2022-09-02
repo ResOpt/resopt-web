@@ -11,11 +11,11 @@ const HumanSection = () => {
                   <h1 className="text-base font-semibold text-primary md:text-xl">
                      Hello everyones,{' '}
                      <span className="block font-bold text-dark text-4xl mt-1 lg:text-5xl">
-                        We are RestOption Company
+                        We are ResultOption Company
                      </span>
                   </h1>
                   <h2 className="font-medium text-dark text-lg mb-5 mt-5 lg:text-2xl">
-                     Company | <span className="text-black">RestOption</span>
+                     Company | <span className="text-black">ResultOption</span>
                   </h2>
                   <p className="font-medium text-slate-700 mb-10">
                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,

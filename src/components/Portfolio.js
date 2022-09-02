@@ -50,7 +50,7 @@ const Portfolio = () => {
                         className="w-full"
                      />
                      <h3 className="font-semibold text-xl text-dark mt-5 mb-3 p-3">
-                        Tribute Page
+                        Mobile App
                      </h3>
                      <p className="font-medium text-base text-dark p-3">
                         There are many variations of passages of Lorem Ipsum

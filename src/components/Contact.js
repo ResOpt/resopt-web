@@ -11,11 +11,7 @@ const Contact = () => {
                      Contact us
                   </h2>
                   <p className="font-medium text-md text-dark md:text-lg">
-                     But I must explain to you how all this mistaken idea of
-                     denouncing pleasure and praising pain was born and I will
-                     give you a complete account of the system, and expound the
-                     actual teachings of the great explorer of the truth, the
-                     master-builder of human happiness.
+                     Contact us and get the best service you can get.
                   </p>
                </div>
             </div>

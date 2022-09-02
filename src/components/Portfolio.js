@@ -14,10 +14,7 @@ const Portfolio = () => {
                      Latest Project
                   </h2>
                   <p className="font-medium  text-md text-dark">
-                     sed do eiusmod tempor incididunt ut labore et dolore magna
-                     aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                     ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                     Duis aute irure dolor in reprehenderit in voluptate velit.
+                     Our fine works.
                   </p>
                </div>
             </div>
@@ -69,7 +66,7 @@ const Portfolio = () => {
                         className="w-full"
                      />
                      <h3 className="font-semibold text-xl text-dark mt-5 mb-3 p-3">
-                        Web Mockup
+                        Dynamic Website
                      </h3>
                      <p className="font-medium text-base text-dark p-3">
                         There are many variations of passages of Lorem Ipsum
@@ -88,7 +85,7 @@ const Portfolio = () => {
                         className="w-full"
                      />
                      <h3 className="font-semibold text-xl text-dark mt-5 mb-3 p-3">
-                        E-commerse
+                        Desktop Application
                      </h3>
                      <p className="font-medium text-base text-dark p-3">
                         There are many variations of passages of Lorem Ipsum

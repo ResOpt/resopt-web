@@ -10,11 +10,8 @@ const Footer = () => {
                      ResultOption
                   </h2>
                   <h2 className="font-bold text-2xl">Contact us</h2>
-                  <p>loremipsum@gmail.com</p>
-                  <p>
-                     ut aut reiciendis voluptatibus maiores alias consequatur
-                     aut
-                  </p>
+                  <p>contact@resultoption.tech</p>
+                  <p>+6289655603027</p>
                </div>
                <div className="w-full px-4 mb-12 md:w-1/3">
                   <h3 className="font-semibold text-xl text-white mb-5">

@@ -18,14 +18,9 @@ const HumanSection = () => {
                      Company | <span className="text-black">ResultOption</span>
                   </h2>
                   <p className="font-medium text-slate-700 mb-10">
-                     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                     sed do eiusmod tempor incididunt ut labore et dolore magna
-                     aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                     ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                     Duis aute irure dolor in reprehenderit in voluptate velit
-                     esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                     occaecat cupidatat non proident, sunt in culpa qui officia
-                     deserunt mollit anim id est laborum.
+                     We love new, latest technologies and will not hesitate to
+                     use them. For your app, especially. Your apps will be
+                     sophisticated with the newest technologies.
                   </p>
                   <Link href="/">
                      <a className="text-base font-semibold text-white bg-sky-900 py-3 px-8 rounded-full hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out">

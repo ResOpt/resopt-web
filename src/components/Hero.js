@@ -41,17 +41,8 @@ const Hero = () => {
                      latest technology
                   </h1>
                   <p className="text-base md:text-xl leading-relaxed font-light mt-4 mb-6">
-                     <a
-                        href="#"
-                        className="underline decoration-sky-500 text-sky-400 font-medium"
-                     >
-                        Dolorem quam
-                     </a>
-                     , Research Existing Solutions. The app development process
-                     must start with clearly defined goals. , recusandae quis
-                     dolorum veritatis nulla, nemo consequuntur temporibus
-                     quisquam expedita libero est facere ipsum laboriosam
-                     eveniet itaque. Rem, dicta temporibus?
+                     Company focused in IT support and building applications. We
+                     are the option for your results!
                   </p>
                </header>
             </div>

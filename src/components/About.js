@@ -13,12 +13,9 @@ const About = () => {
                      Build Your App
                   </h2>
                   <p className="font-medium text-base text-dark max-w-xl lg:text-lg">
-                     The standard chunk of Lorem Ipsum used since the 1500s is
-                     reproduced below for those interested. Sections 1.10.32 and
-                     1.10.33 from de Finibus Bonorum et Malorum by Cicero are
-                     also reproduced in their exact original form, accompanied
-                     by English versions from the 1914 translation by H.
-                     Rackham.
+                     Your app is in the safe hand, we guarantee you. Give us the
+                     directions, and you will get your app, the same as what you
+                     think, or even better.
                   </p>
                </div>
                <div className="w-full px-4 lg:w-1/2">
@@ -26,10 +23,10 @@ const About = () => {
                      Work with us
                   </h2>
                   <p className="font-medium text-base text-dark mb-6 lg:text-lg">
-                     It was popularised in the 1960s with the release of
-                     Letraset sheets containing Lorem Ipsum passages, and more
-                     recently with desktop publishing software like Aldus
-                     PageMaker including versions of Lorem Ipsum.
+                     Our work guarantees that your product will be finished
+                     using the latest technology, and the most efficient one.
+                     Work with us and you can take it easy, knowing your product
+                     will be amazing.
                   </p>
                   <div className="flex items-center">
                      <Link href="/">

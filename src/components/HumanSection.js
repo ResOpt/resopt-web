@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import bg from '../public/bg-1.png';
+import bg from '../public/emoji1.png';
 
 const HumanSection = () => {
    return (
@@ -9,7 +9,7 @@ const HumanSection = () => {
             <div className="flex flex-wrap">
                <div className="w-full self-center px-4 lg:w-1/2">
                   <h1 className="text-base font-semibold text-primary md:text-xl">
-                     Hello everyones,{' '}
+                     Hello world !{' '}
                      <span className="block font-bold text-dark text-4xl mt-1 lg:text-5xl">
                         We are ResultOption Company
                      </span>
@@ -35,7 +35,12 @@ const HumanSection = () => {
                </div>
                <div className="w-full self-end px-4 lg:w-1/2">
                   <div className="relative mt-10 lg:mt-0 lg:right-0">
-                     <Image src={bg} className="max-w-full mx-auto" />
+                     <Image
+                        src={bg}
+                        className="max-w-full mx-auto"
+                        width={400}
+                        height={400}
+                     />
                      <span className="absolute -bottom-14 -z-10 left-1/2 -translate-x-1/2 md:scale-110">
                         <svg
                            viewBox="0 0 200 200"
